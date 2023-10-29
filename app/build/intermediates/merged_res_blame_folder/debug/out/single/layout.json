@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.cursokotlin.flashcard2.app-mergeDebugResources-51:/layout/activity_principal.xml",
+        "source": "com.cursokotlin.flashcard2.app-main-54:/layout/activity_principal.xml"
+    },
+    {
+        "merged": "com.cursokotlin.flashcard2.app-mergeDebugResources-51:/layout/activity_rondas_app.xml",
+        "source": "com.cursokotlin.flashcard2.app-main-54:/layout/activity_rondas_app.xml"
+    },
+    {
+        "merged": "com.cursokotlin.flashcard2.app-mergeDebugResources-51:/layout/activity_second_app.xml",
+        "source": "com.cursokotlin.flashcard2.app-main-54:/layout/activity_second_app.xml"
+    },
+    {
+        "merged": "com.cursokotlin.flashcard2.app-mergeDebugResources-51:/layout/activity_first_app.xml",
+        "source": "com.cursokotlin.flashcard2.app-main-54:/layout/activity_first_app.xml"
+    }
+]

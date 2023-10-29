@@ -1,0 +1,6 @@
+com.cursokotlin.flashcard2.test.app-annotation-experimental-1.3.0-0 C:\Users\pablo\.gradle\caches\transforms-3\8ef30cd8458785a6f5c6520a3378e97c\transformed\annotation-experimental-1.3.0\res
+com.cursokotlin.flashcard2.test.app-core-1.5.0-1 C:\Users\pablo\.gradle\caches\transforms-3\ee985323bd50bae98bdc77920fdb7205\transformed\core-1.5.0\res
+com.cursokotlin.flashcard2.test.app-androidTest-2 C:\Users\pablo\Desktop\Flashcards2\app\build\generated\res\resValues\androidTest\debug
+com.cursokotlin.flashcard2.test.app-mergeDebugAndroidTestResources-3 C:\Users\pablo\Desktop\Flashcards2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.cursokotlin.flashcard2.test.app-mergeDebugAndroidTestResources-4 C:\Users\pablo\Desktop\Flashcards2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.cursokotlin.flashcard2.test.app-merged_res-5 C:\Users\pablo\Desktop\Flashcards2\app\build\intermediates\merged_res\debugAndroidTest
