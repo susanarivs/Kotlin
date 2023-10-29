@@ -1,8 +1,8 @@
-#Sat Oct 28 23:48:54 CST 2023
-base.0=C\:\\Users\\pablo\\Desktop\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\pablo\\Desktop\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\pablo\\Desktop\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=C\:\\Users\\pablo\\Desktop\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+#Sun Oct 29 15:58:59 CST 2023
+base.0=C\:\\Users\\pablo\\Documents\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\pablo\\Documents\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\pablo\\Documents\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=C\:\\Users\\pablo\\Documents\\Flashcards2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=11/classes.dex

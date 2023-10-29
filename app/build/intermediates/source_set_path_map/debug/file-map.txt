@@ -46,10 +46,10 @@ com.cursokotlin.flashcard2.app-slidingpanelayout-1.2.0-44 C:\Users\pablo\.gradle
 com.cursokotlin.flashcard2.app-navigation-runtime-2.5.3-45 C:\Users\pablo\.gradle\caches\transforms-3\f1135a47480fb47378be2ed0f4443bc1\transformed\navigation-runtime-2.5.3\res
 com.cursokotlin.flashcard2.app-viewpager2-1.0.0-46 C:\Users\pablo\.gradle\caches\transforms-3\f27cc9987ff57f135654f4a6a31b5537\transformed\viewpager2-1.0.0\res
 com.cursokotlin.flashcard2.app-navigation-runtime-ktx-2.5.3-47 C:\Users\pablo\.gradle\caches\transforms-3\fd9c0805ac8ccade87a5bd1fc5db4557\transformed\navigation-runtime-ktx-2.5.3\res
-com.cursokotlin.flashcard2.app-pngs-48 C:\Users\pablo\Desktop\Flashcards2\app\build\generated\res\pngs\debug
-com.cursokotlin.flashcard2.app-resValues-49 C:\Users\pablo\Desktop\Flashcards2\app\build\generated\res\resValues\debug
-com.cursokotlin.flashcard2.app-packageDebugResources-50 C:\Users\pablo\Desktop\Flashcards2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.cursokotlin.flashcard2.app-packageDebugResources-51 C:\Users\pablo\Desktop\Flashcards2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.cursokotlin.flashcard2.app-merged_res-52 C:\Users\pablo\Desktop\Flashcards2\app\build\intermediates\merged_res\debug
-com.cursokotlin.flashcard2.app-debug-53 C:\Users\pablo\Desktop\Flashcards2\app\src\debug\res
-com.cursokotlin.flashcard2.app-main-54 C:\Users\pablo\Desktop\Flashcards2\app\src\main\res
+com.cursokotlin.flashcard2.app-pngs-48 C:\Users\pablo\Documents\Flashcards2\app\build\generated\res\pngs\debug
+com.cursokotlin.flashcard2.app-resValues-49 C:\Users\pablo\Documents\Flashcards2\app\build\generated\res\resValues\debug
+com.cursokotlin.flashcard2.app-packageDebugResources-50 C:\Users\pablo\Documents\Flashcards2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cursokotlin.flashcard2.app-packageDebugResources-51 C:\Users\pablo\Documents\Flashcards2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cursokotlin.flashcard2.app-merged_res-52 C:\Users\pablo\Documents\Flashcards2\app\build\intermediates\merged_res\debug
+com.cursokotlin.flashcard2.app-debug-53 C:\Users\pablo\Documents\Flashcards2\app\src\debug\res
+com.cursokotlin.flashcard2.app-main-54 C:\Users\pablo\Documents\Flashcards2\app\src\main\res
