@@ -1,8 +1,7 @@
 package com.cursokotlin.flashcard2.first
-
 import android.annotation.SuppressLint
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import android.widget.Button
 import android.widget.TextView
 import com.cursokotlin.flashcard2.R
@@ -10,12 +9,11 @@ import com.cursokotlin.flashcard2.R
 class SecondAppActivity : AppCompatActivity() {
     private lateinit var preguntaView: TextView
     private lateinit var respuestaButton: Button
-    private var respuestaVisible = false
     private lateinit var izquierdaButton: Button
     private lateinit var derechaButton: Button
     private lateinit var categoriaView: TextView
     private var preguntas: MutableList<String> = ArrayList()
-    private var respuestas: MutableList<String> = ArrayList()  // Lista para almacenar respuestas
+    private var respuestas: MutableList<String> = ArrayList()
     private var preguntaActual = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -64,6 +62,10 @@ class SecondAppActivity : AppCompatActivity() {
         cursor.close()
 
         if (preguntas.isNotEmpty()) {
+            val preguntasMezcladas = preguntas.zip(respuestas).shuffled()
+            preguntas = preguntasMezcladas.map { it.first }.toMutableList()
+            respuestas = preguntasMezcladas.map { it.second }.toMutableList()
+
             preguntaView.text = preguntas[preguntaActual]
             respuestaButton.text = "Mostrar respuesta"
         }
